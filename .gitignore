@@ -1,0 +1,8 @@
+/client/node_modules
+/client/.env
+/client/.yarn
+/server/node_modules
+/server/.env
+/server/.yarn
+/client/ios/Pods
+**/.DS_Store
